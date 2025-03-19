@@ -13,18 +13,7 @@ const UserProfile = () => {
         className="rounded-full"
       />
       <div>
-        <h1>{session?.data?.user?.name}</h1>
-        <p>{session?.data?.user?.email}</p>
-        <p>{session?.data?.user?.image}</p>
-        <p>{session?.data?.user?.id}</p>
-        <p>{session?.data?.user?.name}</p>
-        <p>{session?.data?.user?.email}</p>
-        <p>{session?.data?.user?.image}</p>
-        <p>{session?.data?.user?.id}</p>
-        <p>{session?.data?.user?.name}</p>
-        <p>{session?.data?.user?.email}</p>
-        <p>{session?.data?.user?.image}</p>
-        <p>{session?.data?.user?.id}</p>
+        <h1>how are u</h1>
       </div>
     </>
   );
